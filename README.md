@@ -1,6 +1,6 @@
-### En estos repositorios podrás encontrar algunos de los proyectos realizados durante mi formación.
-- repoCS : trabajos realizados durante la formación en ciberseguridad.
-- repoSTi: trabajos realizados durante la formación en informática y telecomunicaciones. Proyecto final de grado.
+### ℹ️En estos repositorios podrás encontrar algunos de los proyectos realizados durante mi formación.ℹ️
+​🔒repoCS : trabajos realizados durante la formación en ciberseguridad.
+📡​🖥️​repoSTI: trabajos realizados durante la formación en informática y telecomunicaciones. Proyecto final de grado.
 
 <!--
 **EduBroto/EduBroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
