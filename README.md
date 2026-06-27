@@ -1,4 +1,4 @@
-### Hi there 👋
+### En estos repositorioa podras encontrar algunos de los proyectos realizados durante mi formacion en telecomunicaciones, informática y ciberseguridad
 
 <!--
 **EduBroto/EduBroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
